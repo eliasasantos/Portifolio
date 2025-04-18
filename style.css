@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 162, 255);
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:50vh;
+}
+img{
+    width: 200px;
+    height:200px;
+    border-radius:50%;
+    object-fit:cover;
+
+}
+h1{
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
